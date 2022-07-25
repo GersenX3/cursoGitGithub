@@ -7,10 +7,20 @@ body
     margin: 0;
     padding: 0;
 }
+#cabecera
+{
+    background: rgb(101, 95, 160);
+    color: white;
+    margin: 0;
+    text-align: left;
+    padding: 0.5em;
+    font-weight: bold;
+    font-size: 30px;
+}
 #container
 {
     width: 70%;
-    padding:  1em;
+    padding:  0em;
     text-align: center;
     border: 1px solid white;
     margin: 0 auto;
@@ -19,4 +29,8 @@ body
 {
     text-align: center;
     font-size: 50px;
+}
+#post
+{
+    padding: 1em;
 }
