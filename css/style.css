@@ -40,3 +40,16 @@ body
     text-align: center;
     font-size: 25px;
 }
+#footer
+{
+    width: 70%;
+    padding:  0em;
+    text-align: center;
+    border: 1px solid white;
+    margin: 0 auto;
+    background: white;
+}
+#a
+{
+    color: white;
+}
